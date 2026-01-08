@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_projects_ray_FILE /Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Debug/projects_ray)
+set(__QT_DEPLOY_TARGET_projects_ray_TYPE EXECUTABLE)

@@ -1,0 +1,15 @@
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/projects_ray.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/edit_cache.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/rebuild_cache.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/list_install_components.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/install.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/install/local.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/install/strip.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/projects_ray_autogen_timestamp_deps.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/CMakeFiles/projects_ray_autogen.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/glm/CMakeFiles/edit_cache.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/glm/CMakeFiles/rebuild_cache.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/glm/CMakeFiles/list_install_components.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/glm/CMakeFiles/install.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/glm/CMakeFiles/install/local.dir
+/Users/edouard/Documents/US/Brown/CSCI_1230/proj2-4-edouardclocheret/build/build-projects_ray-Qt_6_9_2_for_macOS-Release/glm/CMakeFiles/install/strip.dir
