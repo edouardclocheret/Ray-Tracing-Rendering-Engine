@@ -98,7 +98,6 @@ bool SceneParser::parse(std::string filepath, RenderData &renderData) {
         return false;
     }
 
-    // TODO: Use your Lab 5 code here
     renderData.globalData = fileReader.getGlobalData();
     renderData.cameraData = fileReader.getCameraData();
 

@@ -21,9 +21,9 @@ int indexFromMatIndices (int i, int j, int w){
 
 void RayTracer::render(RGBA *imageData, const RayTraceScene &scene) {
     // Note that we're passing `data` as a pointer (to its first element)
-    // Recall from Lab 1 that you can access its elements like this: `data[i]`
+    // Access its elements like this: `data[i]`
 
-    // TODO: Implement the ray tracing algorithm. Good luck!
+    // Implement the ray tracing algorithm.
     float k = 1.f; // depth of the view plane from the camera position
     Camera::k =k;
     float w = scene.width();

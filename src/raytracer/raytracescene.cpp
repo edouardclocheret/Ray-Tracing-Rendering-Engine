@@ -15,22 +15,18 @@ RayTraceScene::RayTraceScene(int width, int height, const RenderData &metaData):
 {}
 
 const int& RayTraceScene::width() const {
-    // Optional TODO: implement the getter or make your own design
     return this->w;
 }
 
 const int& RayTraceScene::height() const {
-    // Optional TODO: implement the getter or make your own design
     return this->h;
 }
 
 const SceneGlobalData& RayTraceScene::getGlobalData() const {
-    // Optional TODO: implement the getter or make your own design
     return this->globData;
 }
 
 const Camera& RayTraceScene::getCamera() const {
-    // Optional TODO: implement the getter or make your own design
     return this->cam;
 }
 

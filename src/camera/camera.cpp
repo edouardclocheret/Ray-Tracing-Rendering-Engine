@@ -17,21 +17,18 @@ glm::vec4 Camera::getPos() const{
 }
 
 float Camera::getAspectRatio() const {
-    // Optional TODO: implement the getter or make your own design
+
     return aspectRatio;
 }
 
 float Camera::getHeightAngle() const {
-    // Optional TODO: implement the getter or make your own design
     return heightAngle;
 }
 
 float Camera::getFocalLength() const {
-    // Optional TODO: implement the getter or make your own design
     return focalLenght;
 }
 
 float Camera::getAperture() const {
-    // Optional TODO: implement the getter or make your own design
     throw std::runtime_error("not implemented");
 }
